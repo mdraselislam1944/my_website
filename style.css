@@ -1,0 +1,100 @@
+.hdr{
+   
+    color: red;
+    background-image: url('images/donation5.jpg');
+    background-size: 100% 100%;
+    height: 500px;
+  
+    text-align: center;
+    margin-top: 200px;
+   
+}
+.solve{
+    padding: 20px;
+    background-color: red;
+    border-style: none;
+    color: white;
+}
+body{
+    background-color:white;
+}
+.main-1{
+    margin-top: 100px;
+    text-align:center;
+}
+.money .A{
+    padding: 30px;
+    margin-left: 20px;
+    border-style: none;
+}
+.B{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.title{
+    color: white;
+}
+.foot{
+    background-color: black;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 200px;
+    
+}
+
+
+.foot h1{
+    text-align: center;
+    color: #ff1000;
+}
+.foot h6{
+
+ 
+    text-align: center;
+    color: aliceblue;
+}
+.form
+{
+    padding: 50px;
+    background-color: wheat;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-bottom: 80px;
+}
+.f-btn{
+    background-color:red;
+    border-style: none;
+    padding: 10px;
+    margin-right: 0;
+}
+.form-input{
+    background-color:darkslategray;
+    padding: 5px;
+}
+.image-description{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.image-take{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.f2-btn{
+    background-color:red;
+    border-style: none;
+    padding: 10px;
+    margin-right: 0;
+    color: white;
+}
+.beauti-plan{
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+.beauti-plan .donation-plan{
+    padding: 50px;
+    background-color: beige;
+    margin-left: 20px;
+    text-align: left;
+}
