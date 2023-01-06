@@ -6,7 +6,6 @@
     height: 500px;
   
     text-align: center;
-    margin-top: 200px;
    
 }
 .solve{
@@ -79,6 +78,7 @@ body{
 .image-take{
     margin-right: 30px;
     margin-left: 30px;
+
 }
 .f2-btn{
     background-color:red;
