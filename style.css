@@ -4,9 +4,12 @@
     background-image: url('images/donation5.jpg');
     background-size: 100% 100%;
     height: 500px;
-  
+     position: relative;
     text-align: center;
    
+}
+.hdr #t1{
+margin-top: 100px;
 }
 .solve{
     padding: 20px;
