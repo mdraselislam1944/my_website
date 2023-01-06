@@ -4,8 +4,9 @@
     background-image: url('images/donation5.jpg');
     background-size: 100% 100%;
     height: 500px;
-     position: relative;
+    position: relative;
     text-align: center;
+    margin: 0;
    
 }
 .hdr #t1{
